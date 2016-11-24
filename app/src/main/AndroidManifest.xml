@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Intro" />
-        <activity android:name=".ListCereals"></activity>
+        <activity android:name=".ListCereals" />
+        <activity android:name=".DarkChocolateGranola"></activity>
     </application>
 
 </manifest>

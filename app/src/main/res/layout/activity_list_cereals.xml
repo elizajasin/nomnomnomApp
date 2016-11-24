@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/IVcerlist"
         android:layout_marginTop="5dp"
-        android:text="Here our list of cereal recipes"
+        android:text="Here our list of cereal recipes!"
         android:textSize="23sp"
         android:textAlignment="center"/>
 
