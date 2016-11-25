@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Nomnomnom</string>
+    <string name="sukses">Login Berhasil</string>
+    <string name="failed">Login Gagal</string>
     <string name="darkHow">\nPreheat your oven to 350 degrees F.
         \n\nSpray a 13x9 pan (with aluminum foil) with cooking or baking spray. OR use parchment paper.
         \n\nIn a bowl mix oatmeal, salt, and cinnamon. Set aside.
