@@ -17,4 +17,9 @@ public class ListCereals extends AppCompatActivity {
         Intent intent = new Intent(ListCereals.this, DarkChocolateGranola.class);
         startActivity(intent);
     }
+
+    public void peanut(View v){
+        Intent intent = new Intent(ListCereals.this, PeanutButterJamGranola.class);
+        startActivity(intent);
+    }
 }

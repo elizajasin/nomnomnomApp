@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".Intro" />
         <activity android:name=".ListCereals" />
-        <activity android:name=".DarkChocolateGranola"></activity>
+        <activity android:name=".DarkChocolateGranola" />
+        <activity android:name=".PeanutButterJamGranola"></activity>
     </application>
 
 </manifest>
