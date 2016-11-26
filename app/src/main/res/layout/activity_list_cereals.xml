@@ -42,6 +42,8 @@
             android:orientation="vertical">
 
             <TextView
+                android:background="#FFEBEE"
+                android:onClick="darkcho"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
@@ -56,6 +58,7 @@
                 android:textSize="18dp" />
 
             <TextView
+                android:background="#FFEBEE"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
@@ -70,6 +73,7 @@
                 android:textSize="18dp" />
 
             <TextView
+                android:background="#FFEBEE"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"

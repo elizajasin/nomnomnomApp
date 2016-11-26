@@ -19,10 +19,10 @@
             android:textSize="20sp"
             android:text="Hello "/>
         <TextView
+            android:id="@+id/tvName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="Eliza"/>
+            android:textSize="20sp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -54,7 +54,8 @@
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 card_view:cardCornerRadius="4dp"
-                android:layout_marginRight="5dp">
+                android:layout_marginRight="5dp"
+                android:onClick="klikCereal">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -281,7 +282,7 @@
                         android:layout_height="wrap_content"
                         android:text="Ice Creams"
                         android:textAlignment="center"
-                        android:textSize="20sp"/>
+                        android:textSize="18sp"/>
                 </LinearLayout>
 
             </android.support.v7.widget.CardView>
@@ -302,7 +303,7 @@
                     <ImageView
                         android:layout_gravity="center"
                         android:src="@drawable/cakes"
-                        android:layout_width="100dp"
+                        android:layout_width="80dp"
                         android:layout_height="80dp" />
 
                     <TextView
@@ -320,5 +321,6 @@
         android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Logout"/>
+        android:text="Logout"
+        android:onClick="logout"/>
 </LinearLayout>
