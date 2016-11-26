@@ -21,7 +21,8 @@
         <activity android:name=".PeanutButterJamGranola" />
         <activity android:name=".OrangMarmaladeGranola" />
         <activity android:name=".MaplePecanGranola" />
-        <activity android:name=".CarrotCakeGranola"></activity>
+        <activity android:name=".CarrotCakeGranola" />
+        <activity android:name=".AlmondRaisinGranola"></activity>
     </application>
 
 </manifest>
