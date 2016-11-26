@@ -19,7 +19,8 @@
         <activity android:name=".ListCereals" />
         <activity android:name=".DarkChocolateGranola" />
         <activity android:name=".PeanutButterJamGranola" />
-        <activity android:name=".OrangMarmaladeGranola"></activity>
+        <activity android:name=".OrangMarmaladeGranola" />
+        <activity android:name=".MaplePecanGranola"></activity>
     </application>
 
 </manifest>
