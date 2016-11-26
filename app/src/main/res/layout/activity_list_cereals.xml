@@ -59,6 +59,7 @@
                 android:textSize="18dp" />
 
             <TextView
+                android:onClick="orange"
                 android:background="#FFEBEE"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
