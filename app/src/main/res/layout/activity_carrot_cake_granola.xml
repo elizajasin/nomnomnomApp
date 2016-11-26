@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_orang_marmalade_granola"
+    android:id="@+id/activity_carrot_cake_granola"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="net.jasin.eliza.nomnomnom.OrangMarmaladeGranola">
+    tools:context="net.jasin.eliza.nomnomnom.CarrotCakeGranola">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -20,24 +20,24 @@
             android:orientation="vertical">
 
             <ImageView
-                android:src="@drawable/orange"
+                android:src="@drawable/carrot"
                 android:layout_centerHorizontal="true"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
 
             <TextView
-                android:textColor="#6A1B9A"
+                android:textColor="#283593"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="Orange Marmalade Granola"
+                android:text="Carrot Cake Granola"
                 android:textSize="23sp"
                 android:textAlignment="center"
                 android:id="@+id/textView" />
 
             <TextView
-                android:textColor="#6A1B9A"
+                android:textColor="#283593"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -49,16 +49,16 @@
                 android:layout_margin="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/orangeIng"
+                android:text="@string/carrotIng"
                 android:textSize="15sp"
                 android:layout_marginTop="1dp"/>
 
             <TextView
-                android:textColor="#6A1B9A"
+                android:textColor="#283593"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="How to Make Orange Marmalade Granola"
+                android:text="How to Make Carrot Cake Granola"
                 android:textSize="18sp"
                 android:layout_marginTop="1dp"/>
 
@@ -66,7 +66,7 @@
                 android:layout_margin="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/orangeHow"
+                android:text="@string/carrotHow"
                 android:textSize="15sp"
                 android:layout_marginTop="1dp"/>
         </LinearLayout>

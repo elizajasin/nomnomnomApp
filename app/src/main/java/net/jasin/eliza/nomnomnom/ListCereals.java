@@ -32,4 +32,9 @@ public class ListCereals extends AppCompatActivity {
         Intent intent = new Intent(ListCereals.this, MaplePecanGranola.class);
         startActivity(intent);
     }
+
+    public void carrot(View v){
+        Intent intent = new Intent(ListCereals.this, CarrotCakeGranola.class);
+        startActivity(intent);
+    }
 }
