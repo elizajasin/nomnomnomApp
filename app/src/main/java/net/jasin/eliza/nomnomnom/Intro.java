@@ -27,6 +27,11 @@ public class Intro extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void klikSandwich(View v){
+        Intent intent = new Intent(Intro.this, ListSandwich.class);
+        startActivity(intent);
+    }
+
     public void logout(View v){
         Intent intent = new Intent(Intro.this, Login.class);
         startActivity(intent);

@@ -22,7 +22,9 @@
         <activity android:name=".OrangMarmaladeGranola" />
         <activity android:name=".MaplePecanGranola" />
         <activity android:name=".CarrotCakeGranola" />
-        <activity android:name=".AlmondRaisinGranola"></activity>
+        <activity android:name=".AlmondRaisinGranola" />
+        <activity android:name=".ListSandwich" />
+        <activity android:name=".BeefSandwich"></activity>
     </application>
 
 </manifest>
