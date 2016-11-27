@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/IVSanlist"
         android:layout_marginTop="5dp"
-        android:text="Here our list of sandwich recipes!"
+        android:text="Here our list of cookie recipes!"
         android:textSize="23sp"
         android:textAlignment="center"/>
 
@@ -48,7 +48,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Microwave Breakfast Sandwich"
+                android:text="Cookie Crisp: Vanilla Wafer Cereal"
                 android:textSize="18dp" />
 
             <TextView
@@ -56,7 +56,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Hamburger Breakfast Sandwich"
+                android:text="Chocolate Cookie Oatmeal"
                 android:textSize="18dp" />
 
             <TextView
@@ -65,7 +65,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Sausage, Egg And Double Cheese Breakfast Sandwich"
+                android:text="No-Bake Chocolate Oatmeal Cookies"
                 android:textSize="18dp" />
 
         </LinearLayout>

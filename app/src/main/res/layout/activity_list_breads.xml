@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/IVSanlist"
         android:layout_marginTop="5dp"
-        android:text="Here our list of sandwich recipes!"
+        android:text="Here our list of bread recipes!"
         android:textSize="23sp"
         android:textAlignment="center"/>
 
@@ -44,28 +44,28 @@
 
             <TextView
                 android:background="#FFF3E0"
-                android:onClick="beef"
+                android:onClick="apple"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Microwave Breakfast Sandwich"
+                android:text="Apple Bread"
                 android:textSize="18dp" />
 
             <TextView
-                android:onClick="ham"
+                android:onClick="carrotcake"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Hamburger Breakfast Sandwich"
+                android:text="Carrot Cake Breakfast Bread"
                 android:textSize="18dp" />
 
             <TextView
-                android:onClick="big"
+                android:onClick="chocchip"
                 android:background="#FFF3E0"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
-                android:text="Sausage, Egg And Double Cheese Breakfast Sandwich"
+                android:text="Chocolate Chip Pumpkin Bread"
                 android:textSize="18dp" />
 
         </LinearLayout>

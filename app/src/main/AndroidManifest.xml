@@ -33,7 +33,10 @@
         <activity android:name=".ListSalads" />
         <activity android:name=".ListBreads" />
         <activity android:name=".ListIces" />
-        <activity android:name=".ListCakes"></activity>
+        <activity android:name=".ListCakes" />
+        <activity android:name=".Apple" />
+        <activity android:name=".CarrotCake" />
+        <activity android:name=".ChocoChipPumpkin"></activity>
     </application>
 
 </manifest>
