@@ -50,7 +50,7 @@
                 android:textSize="18dp" />
 
             <TextView
-                android:onClick="peanut"
+                android:onClick="ham"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
