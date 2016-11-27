@@ -51,7 +51,10 @@
         <activity android:name=".ChocholateChipCereal" />
         <activity android:name=".UsaBreakfastParfaits" />
         <activity android:name=".WatermelonBenedict" />
-        <activity android:name=".Crumble"></activity>
+        <activity android:name=".Crumble" />
+        <activity android:name=".ThaiKaoTom" />
+        <activity android:name=".Savory" />
+        <activity android:name=".JapanMiso"></activity>
     </application>
 
 </manifest>
