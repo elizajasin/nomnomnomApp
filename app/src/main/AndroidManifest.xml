@@ -36,7 +36,10 @@
         <activity android:name=".ListCakes" />
         <activity android:name=".Apple" />
         <activity android:name=".CarrotCake" />
-        <activity android:name=".ChocoChipPumpkin"></activity>
+        <activity android:name=".ChocoChipPumpkin" />
+        <activity android:name=".CoffeeFlop" />
+        <activity android:name=".Blueberry" />
+        <activity android:name=".Oatmeal"></activity>
     </application>
 
 </manifest>
