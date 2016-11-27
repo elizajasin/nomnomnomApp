@@ -44,7 +44,7 @@
 
             <TextView
                 android:background="#EFEBE9"
-                android:onClick="beef"
+                android:onClick="usa"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
@@ -52,7 +52,7 @@
                 android:textSize="18dp" />
 
             <TextView
-                android:onClick="ham"
+                android:onClick="water"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="15dp"
@@ -60,7 +60,7 @@
                 android:textSize="18dp" />
 
             <TextView
-                android:onClick="big"
+                android:onClick="crumble"
                 android:background="#EFEBE9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

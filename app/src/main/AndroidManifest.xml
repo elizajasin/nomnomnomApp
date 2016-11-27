@@ -48,7 +48,10 @@
         <activity android:name=".PeppermintCappucino" />
         <activity android:name=".Vanilla" />
         <activity android:name=".PebblesCereal" />
-        <activity android:name=".ChocholateChipCereal"></activity>
+        <activity android:name=".ChocholateChipCereal" />
+        <activity android:name=".UsaBreakfastParfaits" />
+        <activity android:name=".WatermelonBenedict" />
+        <activity android:name=".Crumble"></activity>
     </application>
 
 </manifest>
