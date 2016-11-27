@@ -10,4 +10,66 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="net.jasin.eliza.nomnomnom.ListBreads">
 
+    <ImageView
+        android:id="@+id/IVSanlist"
+        android:src="@drawable/bakery"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/titleS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IVSanlist"
+        android:layout_marginTop="5dp"
+        android:text="Here our list of sandwich recipes!"
+        android:textSize="23sp"
+        android:textAlignment="center"/>
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_below="@id/titleS"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        card_view:cardCornerRadius="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:background="#FFF3E0"
+                android:onClick="beef"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="15dp"
+                android:text="Microwave Breakfast Sandwich"
+                android:textSize="18dp" />
+
+            <TextView
+                android:onClick="ham"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="15dp"
+                android:text="Hamburger Breakfast Sandwich"
+                android:textSize="18dp" />
+
+            <TextView
+                android:onClick="big"
+                android:background="#FFF3E0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="15dp"
+                android:text="Sausage, Egg And Double Cheese Breakfast Sandwich"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
 </RelativeLayout>
