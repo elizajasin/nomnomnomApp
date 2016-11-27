@@ -39,7 +39,10 @@
         <activity android:name=".ChocoChipPumpkin" />
         <activity android:name=".CoffeeFlop" />
         <activity android:name=".Blueberry" />
-        <activity android:name=".Oatmeal"></activity>
+        <activity android:name=".Oatmeal" />
+        <activity android:name=".VanillaWafer" />
+        <activity android:name=".ChocoCookie" />
+        <activity android:name=".NoBakeChoco"></activity>
     </application>
 
 </manifest>
