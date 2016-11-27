@@ -42,7 +42,10 @@
         <activity android:name=".Oatmeal" />
         <activity android:name=".VanillaWafer" />
         <activity android:name=".ChocoCookie" />
-        <activity android:name=".NoBakeChoco"></activity>
+        <activity android:name=".NoBakeChoco" />
+        <activity android:name=".Antioxidant" />
+        <activity android:name=".BananaOatmeal" />
+        <activity android:name=".PeppermintCappucino"></activity>
     </application>
 
 </manifest>
