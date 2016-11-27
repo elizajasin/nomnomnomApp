@@ -26,7 +26,14 @@
         <activity android:name=".ListSandwich" />
         <activity android:name=".BeefSandwich" />
         <activity android:name=".HamburgerBreakfast" />
-        <activity android:name=".BigTexas"></activity>
+        <activity android:name=".BigTexas" />
+        <activity android:name=".ListDrinks" />
+        <activity android:name=".ListSoups" />
+        <activity android:name=".ListCookies" />
+        <activity android:name=".ListSalads" />
+        <activity android:name=".ListBreads" />
+        <activity android:name=".ListIces" />
+        <activity android:name=".ListCakes"></activity>
     </application>
 
 </manifest>

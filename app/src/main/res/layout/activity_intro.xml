@@ -107,6 +107,7 @@
             </android.support.v7.widget.CardView>
 
             <android.support.v7.widget.CardView
+                android:onClick="klikDrink"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -141,6 +142,7 @@
             android:layout_height="wrap_content">
 
             <android.support.v7.widget.CardView
+                android:onClick="klikSoup"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -170,6 +172,7 @@
             </android.support.v7.widget.CardView>
 
             <android.support.v7.widget.CardView
+                android:onClick="klikCookie"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -198,6 +201,7 @@
             </android.support.v7.widget.CardView>
 
             <android.support.v7.widget.CardView
+                android:onClick="klikSalad"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -232,6 +236,7 @@
             android:layout_height="wrap_content">
 
             <android.support.v7.widget.CardView
+                android:onClick="klikBread"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -261,6 +266,7 @@
             </android.support.v7.widget.CardView>
 
             <android.support.v7.widget.CardView
+                android:onClick="klikIce"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
@@ -289,6 +295,7 @@
             </android.support.v7.widget.CardView>
 
             <android.support.v7.widget.CardView
+                android:onClick="klikCake"
                 xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_weight="1"
                 android:layout_gravity="center"
