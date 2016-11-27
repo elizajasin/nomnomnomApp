@@ -45,7 +45,10 @@
         <activity android:name=".NoBakeChoco" />
         <activity android:name=".Antioxidant" />
         <activity android:name=".BananaOatmeal" />
-        <activity android:name=".PeppermintCappucino"></activity>
+        <activity android:name=".PeppermintCappucino" />
+        <activity android:name=".Vanilla" />
+        <activity android:name=".PebblesCereal" />
+        <activity android:name=".ChocholateChipCereal"></activity>
     </application>
 
 </manifest>
